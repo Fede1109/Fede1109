@@ -12,7 +12,7 @@ Hi there 👋
 <br/>
 <br/>
 <br/>
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fede1109&title_color=82AAFF&text_color=ABB2BF&icon_color=7FDBCA&bg_color=011627)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fede1109&title_color=82AAFF&text_color=ABB2BF&icon_color=7FDBCA&bg_color=011627&hide_title=true&hide_border=true&show_icons=true)
 
 <!--
 **Fede1109/Fede1109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
