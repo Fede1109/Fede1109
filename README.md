@@ -1,32 +1,30 @@
-Hi there 👋, I'm Fede.
-<br/>
-<br/>
-<!--
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fede1109&title_color=82AAFF&text_color=ABB2BF&icon_color=7FDBCA&bg_color=011627&hide_title=true&hide_border=true&show_icons=true)
+# Hi there 👋, I'm Federico Díaz
 
-<!--
-**FedeDiazDev/FedeDiazDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer & Full-Stack Developer** 🚀
+Currently diving deep into the **Outer Core at 42 Madrid**, building high-performance applications and microservices. I am deeply interested in understanding how systems break under pressure and how to optimize them to ensure maximum uptime and reliability.
 
-Here are some ideas to get you started:
+---
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
+### 🛠️ Tech Stack & Tools
 
-- 🌱 I’m currently learning copywriting.
-- 🔭 I’m currently working on outer core at 42.
-- ⚡ Fun fact: When I'm not coding, I'm crafting copy that sells — and when I'm not doing that, you’ll probably find me on the pitch chasing a ball ⚽.
-- 📫 How to reach me: federicojose2000@gmail.com
-<br/>
-<br/>
+- **Languages:** TypeScript, JavaScript, Node.js, C/C++, Python, SQL
+- **Frontend & Visualization:** React, Next.js, Tailwind CSS, 3D Rendering (Web/Mobile)
+- **Backend & Architecture:** Express, .NET, REST APIs, Microservices
+- **DevOps & Tools:** Docker, Git, CI/CD (GitHub Actions), Vercel, AWS
 
-<!-- <a href="https://github.com/FedeDiazDev/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FedeDiazDev&title_color=82AAFF&text_color=ABB2BF&icon_color=7FDBCA&bg_color=011627&show_icons=true" />
-</a>
-<a href="https://github.com/FedeDiazDev/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FedeDiazDev&layout=compact&langs_count=8&card_width=320&title_color=82AAFF&text_color=ABB2BF&icon_color=7FDBCA&bg_color=011627" /> -->
-</a>
-<br/>
-<br/>
-<br/>
+---
+
+### 🔭 What I'm up to right now:
+- 💻 Optimizing system architectures and setting up containerized environments using Docker and Nginx.
+- ⚙️ Building robust Continuous Integration (CI/CD) pipelines and automated testing workflows.
+- ✍️ Learning copywriting tailored for tech: because clean code deserves equally clean, compelling documentation and communication.
+
+---
+
+### ⚡ Fun Facts & Beyond:
+- When I'm not hunting down bugs or dealing with multi-threading logic, you’ll probably find me pushing my limits at a local bouldering gym or logging miles out on a run 🏃‍♂️🧗‍♂️.
+---
+
+### 📫 Let's Connect:
+- 💼 **LinkedIn:** https://www.linkedin.com/in/fedediazdev/
+- 📧 **Email:** federicojose2000@gmail.com
